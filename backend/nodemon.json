@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "aliozzaim788",
+    "DB_PASSWORD": "XnDsNAGAv8DUuLaz",
+    "DB_NAME": "places",
+    "API_KEY": "..",
+    "JWT_KEY": "ATOMIC_SECRET__PRIVITE__KEY"
+  }
+}
