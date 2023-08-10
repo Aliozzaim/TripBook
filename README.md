@@ -19,7 +19,7 @@ The backend of the application is built using Node.js and Express.js. It utilize
 
 ## Frontend
 
-The frontend of the application is built using React.js. It offers an intuitive and interactive user interface for managing places. Users can sign up or log in to the application, create new places with descriptions and images, view existing places, update place details, and delete places if they are the creators. The frontend communicates with the backend API to fetch and manipulate data.
+The frontend of the application is built using React.js. It offers an intuitive and interactive user interface for managing places. Users can sign up or log in to the application, create new places with descriptions and images, view existing places, update place details, and delete places if they are the creators. The frontend communicates with the backend API to fetch and manipulate data
 
 ### Technologies Used
 
