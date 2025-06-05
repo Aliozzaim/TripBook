@@ -6,7 +6,7 @@ This project is a full-stack application that allows users to create, view, upda
 ## Backend
 
 The backend of the application is built using Node.js and Express.js. It utilizes MongoDB as the database for storing places and user data. The backend provides RESTful API endpoints for handling various operations related to places and user authentication. JWT (JSON Web Tokens) are used for secure access to protected routes.
-
+a
 ### Technologies Used
 
 - Node.js
