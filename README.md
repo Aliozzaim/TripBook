@@ -29,7 +29,7 @@ The frontend of the application is built using React.js. It offers an intuitive 
 
 ## How to Run the Application
 
-1. Clone the repository.
+1. Clone the repository
 2. Install dependencies for both the backend and frontend using `npm install` command in their respective directories.
 3. Set up the environment variables required for the backend, such as the MongoDB connection string and JWT secret key
 4. Run the backend server using `npm start` command.
